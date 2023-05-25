@@ -11,6 +11,10 @@
   </a>
 </div>
 
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=michael-duren&style=flat-square&color=green" alt="views icon"/>
+ </div>
+
 <!-- - 👋 Hi, I’m @michael-duren
 - 👀 I’m interested in ... Typescript, React, Nextjs, C#, .NET, CSS, Tailwind CSS.
 - 💞️ I’m looking to collaborate on ... Small projects.
