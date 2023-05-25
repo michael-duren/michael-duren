@@ -64,11 +64,11 @@
 
 <div>
     <p><img align="left"
-    		src="https://github-readme-stats.vercel.app/api/top-langs?username=michael-duren&show_icons=true&locale=en&layout=compact"
+    		src="https://github-readme-stats.vercel.app/api/top-langs?username=michael-duren&show_icons=true&locale=en&layout=compact&theme=radical"
     		alt="michaelduren" /></p>
     <p>&nbsp;<img align="center"
-    		src="https://github-readme-stats.vercel.app/api?username=michael-duren&show_icons=true&locale=en"
+    		src="https://github-readme-stats.vercel.app/api?username=michael-duren&theme=radical"
     		alt="michaelduren" /></p>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michael-duren&"
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michael-duren&theme=radical"
     		alt="michaelduren" /></p>
 </div>
