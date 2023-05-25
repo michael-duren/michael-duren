@@ -17,7 +17,6 @@
 
 ### 🧑🏻‍💻 About Me:
 
-
 - 👀 I'm currently seeking full time **Web Development** roles
 
 - 💬 I focus in **Typescript, React, Nextjs, C# .NET, CSS**
@@ -28,7 +27,40 @@
 
 - 🎶 In my free time I make weird electronic music, [listen](https://www.instagram.com/p/CP9M_eGDVMx/).
 
-### 📊 Stats
+### 🛠️ Languages and Tools
+
+<div>
+	<a href="https://react.dev" target="_blank" rel="noreferrer">
+	<img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+	</a>&nbsp;
+	<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+	<img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+	</a>&nbsp;
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+	<img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+	</a>&nbsp;
+	<a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer">
+	<img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+	</a>&nbsp;
+	<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+	<img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+	</a>&nbsp;
+	<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+	<img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+	</a>&nbsp;
+	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+	<img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+	</a>&nbsp;
+	<a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+	<img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+	</a>&nbsp;
+	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+	<img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+	</a>&nbsp;
+
+</div>
+
+### 🔥 Stats
 
 <div>
     <p><img align="left"
