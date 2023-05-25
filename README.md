@@ -1,6 +1,5 @@
 <div align="center" id="header">
 	<img style="height:8rem;width:8rem;" src="./assets/Avatar-Computer.png" alt="Avatr of me with an Apple Computer"/>
- </div>
 
  <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/michael-duren/">
@@ -10,9 +9,11 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+    <img src="https://komarev.com/ghpvc/?username=michael-duren&style=flat-square&color=green" alt="views icon"/>
+		<h1 style="margin-top:2rem;border:none;padding-bottom:0;"><b>Hi 👋, I'm Michael Duren</b></h1>
+		<h3>Web Developer based in Minnesota</h3>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=michael-duren&style=flat-square&color=green" alt="views icon"/>
  </div>
 
 <!-- - 👋 Hi, I’m @michael-duren
