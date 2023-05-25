@@ -17,11 +17,10 @@
 
 ### 🧑🏻‍💻 About Me:
 
-<br/>
 
 - 👀 I'm currently seeking full time **Web Development** roles
 
-- 💬 My focus is in **Typescript, React, Nextjs, C# .NET, CSS**
+- 💬 I focus in **Typescript, React, Nextjs, C# .NET, CSS**
 
 - 🌱 I'm currently learning **Astro**
 
@@ -41,13 +40,3 @@
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michael-duren&"
     		alt="michaelduren" /></p>
 </div>
-
-<!-- - 👋 Hi, I’m @michael-duren
-- 👀 I’m interested in ... Typescript, React, Nextjs, C#, .NET, CSS, Tailwind CSS.
-- 💞️ I’m looking to collaborate on ... Small projects.
-- 📫 How to reach me ... michaeld@michaelduren.com -->
-
-<!---
-michaeldit/michaeldit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
