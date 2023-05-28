@@ -81,6 +81,9 @@
 	<a href="https://vscode.dev" target="_blank" rel="noreferrer">
 	<img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 	</a>&nbsp;
+	<a href="https://vscode.dev" target="_blank" rel="noreferrer">
+	<img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+	</a>&nbsp;
 	<a href="https://www.vim.org" target="_blank" rel="noreferrer">
 	<img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" />
 	</a>&nbsp;
