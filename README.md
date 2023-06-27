@@ -19,7 +19,7 @@
 
 - 👀 I'm currently seeking full time **Web Development** roles
 
-- 💬 I focus in **Typescript, React, Nextjs, C# .NET, CSS**
+- 💬 I focus in **Typescript, React, Node, C# .NET, CSS**
 
 - 🌱 I'm currently learning **Astro**
 
