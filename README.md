@@ -20,8 +20,9 @@
 - 👀 I'm currently seeking full time **Web Development** roles
 
 - 💬 I focus in **Typescript, React, Node, C# .NET, CSS**
+- I also enjoy **Astro, Tailwind, and Blazor**
 
-- 🌱 I'm currently learning **Astro**
+- 🌱 I'm currently learning **Figma & Design Concepts**
 
 - ✉️ How to reach me ... michaeld@michaelduren.com
 
