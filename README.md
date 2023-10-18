@@ -22,7 +22,7 @@
 - 💬 I focus in **Typescript, React, Node, C# .NET, CSS**
 - I also enjoy **Astro, Tailwind, and Blazor**
 
-- 🌱 I'm currently learning **Rust 🦀**
+- 🌱 I'm currently learning **Rust 🦀 && React Native 📱**
 
 - ✉️ How to reach me ... michaeld@michaelduren.com
 
