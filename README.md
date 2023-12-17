@@ -19,7 +19,7 @@
 
 - 👀 I'm currently seeking full time **Web Development** roles
 
-- 💬 I focus in **Typescript, React, Node, C# .NET, CSS**
+- 💬 I focus in **Typescript, React, C# .NET, CSS**
 - I also enjoy **Astro, Tailwind, and Blazor**
 
 - 🌱 I'm currently learning **Rust 🦀 && React Native 📱**
