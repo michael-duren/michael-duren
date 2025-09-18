@@ -11,7 +11,7 @@
 </div>
     <img src="https://komarev.com/ghpvc/?username=michael-duren&style=flat-square&color=green" alt="views icon"/>
 		<h1 style="margin-top:2rem;border:none;padding-bottom:0;"><b>Hi 👋, I'm Michael Duren</b></h1>
-		<h3>Web Developer and Musician based in Minnesota</h3>
+		<h3>Software Engineer in Minnesota</h3>
 
 </div>
 
