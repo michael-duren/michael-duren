@@ -22,3 +22,4 @@
 - 🎶 In my free time I make weird electronic music, [listen](https://www.instagram.com/p/CP9M_eGDVMx/).
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=michael-duren&theme=tokyonight" alt="mystreak"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-duren&layout=compact)
