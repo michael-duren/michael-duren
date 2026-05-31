@@ -24,5 +24,5 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=michael-duren&theme=tokyonight" alt="mystreak"/>
 
 
-![top-langs](https://dmnt9psp9j.us-east-1.awsapprunner.com/api/top-langs?theme=nord&username=michael-duren)
+![top-langs](https://dmnt9psp9j.us-east-1.awsapprunner.com/api/top-langs?theme=tokyonight&username=michael-duren)
 
